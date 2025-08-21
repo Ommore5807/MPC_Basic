@@ -22,6 +22,7 @@ Input: Steering Angle (rad)
 Plant(State Space of Vehicle)
 
 Output : Lateral distance travelled ; Yaw Angle(rad)
+![Alt text](path/to/image.png)
 
 Step 4:
 Implementation:
@@ -31,6 +32,7 @@ Download MPC_Basic Repo.
 1) Open Main_script.m
 Run Main_script.m
 2)Follow scope in Plant characterization.m
+![Alt text](path/to/image.png)
 
 
 
